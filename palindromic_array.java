@@ -51,8 +51,8 @@ public class palindromic_array {
         }
 
         int ans=palinArray(arr, n);
-
-        System.out.println("If array is pelindromic output 1 ,else 0 :="+ans);
+        System.out.println("If array is pelindromic output 1 ,else 0 :=");
+        System.out.println("out put ="+ans);
          
     }
     
