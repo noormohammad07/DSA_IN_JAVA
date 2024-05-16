@@ -14,6 +14,7 @@ public class cyclic_rotate_by_1 {
 
       int temp=arr[0];
       int after=0;
+      // pre define value of 0th index 
       arr[0]=arr[n-1];
 
       for(int i=1;i<n;i++){
